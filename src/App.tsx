@@ -1,11 +1,11 @@
 import "./App.css";
-import UsersFromServer from "./components/Example/UsersFromServer";
+import UsersFromServer from "./components/UsersFromServer";
 
 function App() {
   return (
-    <>
+    <div>
       <UsersFromServer />
-    </>
+    </div>
   );
 }
 
